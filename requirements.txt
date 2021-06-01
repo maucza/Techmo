@@ -1,6 +1,6 @@
 Pisane w UNIX-owym systemie operacyjnym:
 
-Forma ścieżki do plików ('alasz' w inną stronę niż Microsoft Windows) ––> /Users/User/....
+Forma ścieżki do plików ('slasz' w inną stronę niż Microsoft Windows) ––> /Users/User/....
 
 
 import panel as pn
